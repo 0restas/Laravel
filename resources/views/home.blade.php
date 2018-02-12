@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Sveikas, dabar gali matyti foruma
                 </div>
             </div>
         </div>
